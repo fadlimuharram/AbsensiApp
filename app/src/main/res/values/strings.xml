@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AbsensiApp</string>
+    <string name="password">password</string>
+    <string name="menujuregister">Menuju Register</string>
+    <string name="register">Register</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="title_activity_daftar_mapel">DaftarMapelActivity</string>
+</resources>

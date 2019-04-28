@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124575072515",
+    "firebase_url": "https://fadlimwsrestaurant.firebaseio.com",
+    "project_id": "fadlimwsrestaurant",
+    "storage_bucket": "fadlimwsrestaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124575072515:android:13c19fa789dc9b2c",
+        "android_client_info": {
+          "package_name": "com.example.absensiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124575072515-tk5nd7carj5uqljskbpu5ue7pa14at1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.absensiapp",
+            "certificate_hash": "e6f17438ba4a4bb8837b525771891fc8c0da92e0"
+          }
+        },
+        {
+          "client_id": "124575072515-bbfk1cpta970uq356mk1fj36mjffec87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4o_G-Z-x0RVIi5oS_qhmG7Kuz6JOxGjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124575072515-bbfk1cpta970uq356mk1fj36mjffec87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
